@@ -1,15 +1,63 @@
  { 
     "projects": [
         {
-    "id": 0,
-    "project_name": "RandomQuote Generator", 
-    "description": "A random quote generator that displays a different quote by clicking a button or at a set interval",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "live_link": "https://github.com/MWest2020/Random-Quote-Generator.git",
-    "github_link": "https://github.com/MWest2020/Random-Quote-Generator.git",
-    "image_urls": [
-        "/images/Phrase-Hunter(win).png",
-        "/images/Phrase-Hunter-example.png"
+            "id": 0,
+            "project_name": "RandomQuote Generator", 
+            "description": "A random quote generator that displays a different quote by clicking a button or at a set interval",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://mwest2020.github.io/Random-Quote-Generator/",
+            "github_link": "https://github.com/MWest2020/Random-Quote-Generator.git",
+            "image_urls": [
+                "/images/Random-Quotes.png",
+                "/images/Random-Quotes-another.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Page Pagination", 
+            "description": "A simple app to demonstrate page pagination",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://mwest2020.github.io/Page-pagination/",
+            "github_link": "https://github.com/MWest2020/Page-pagination.git",
+            "image_urls": [
+                "/images/Student-List.png",
+                "/images/Student-list-search.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "A dynamic Form", 
+            "description": "A dynamic form that checks and alerts usrs form correct input",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://mwest2020.github.io/Form-dynamic/",
+            "github_link": "https://github.com/MWest2020/Form-dynamic.git",
+            "image_urls": [
+                "/images/Register-for-Full-Stack-Conf.png",
+                "/images/Register-for-Full-Stack-Conf-select-options.png"
+            ]
+        },
+    {
+        "id": 3,
+        "project_name": "Phrasehunter", 
+        "description": "A simple phrase guessing game, similar to hangman.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://mwest2020.github.io/PhraseHunter/",
+        "github_link": "https://github.com/MWest2020/PhraseHunter.git",
+        "image_urls": [
+            "/images/Phrase-Hunter-example.png",
+            "/images/Phrase-Hunter(win).png"
+            ]
+    },
+    {
+        "id": 4,
+        "project_name": "Public-API-Request", 
+        "description": "A display of random employees imported from the randomuser.me API with dynamic search bar and modals",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://mwest2020.github.io/public-API-request/",
+        "github_link": "https://github.com/MWest2020/public-API-request.git",
+        "image_urls": [
+            "/images/Public-API-request.png",
+            "/images/Public-API-request-modal.png"
         ]
     }
     
