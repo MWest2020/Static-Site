@@ -56,10 +56,13 @@
         "live_link": "https://mwest2020.github.io/public-API-request/",
         "github_link": "https://github.com/MWest2020/public-API-request.git",
         "image_urls": [
-            "/images/Public-API-requests.png",
-            "/images/Public-API-requests-modal.png"
+            "/images/Public-API-request.png",
+            "/images/Public-API-request-modal.png"
         ]
     }
     
-    ]  
+    
+    
+    
+    ]    
 }
