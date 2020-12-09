@@ -19,6 +19,11 @@ h1,h2,h3,h4,h5,p{
     text-transform: uppercase;
   }
 
+  h5:hover{
+    color: #111;
+    transform: scale(1.03);
+  }
+
   h6{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -53,6 +58,7 @@ a{
 
 a:hover{
   color: #111;
+  transform: scale(1.03);
 }
 
 .image{
@@ -63,7 +69,10 @@ a:hover{
   border-radius: 5px;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
+  
+
 }
+
 
 .portfolio-me{
   padding: 20px;
@@ -124,7 +133,13 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    transition: transform .4s;
   }
+
+  .portfolio-index .thumbnail:hover {
+    transform: scale(1.05);
+  }
+  
 
   .portfolio-index a{
     color: #222;
@@ -158,3 +173,9 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+span.title-bar-title {
+
+  margin-left: 20px;
+}
+

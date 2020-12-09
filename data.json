@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "RandomQuote Generator", 
+            "project_name": "Random Quote Generator", 
             "description": "A random quote generator that displays a different quote by clicking a button or at a set interval.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://mwest2020.github.io/Random-Quote-Generator/",
