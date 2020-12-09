@@ -41,8 +41,8 @@ app.use((err, req, res, next) => {
     res.status(err.status);
     if(err.status === 404){
         res.render('page-not-found')
-    } else{
-        res.render('error');
+    } else {
+        res.render('error', {err} );
     };
 });
 

@@ -21,7 +21,7 @@ block content
         ul
         each project in projects.technologies
           li= project
-
+        
         //- Use template literals and interpolation to add URLs to the hrefs below so they link to the repo and the live version of each project.
         a.button.expanded(href=`${projects.live_link}`) Live Demo
         a.button.expanded(href=`${projects.github_link}`) GitHub Repo
