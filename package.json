@@ -4,8 +4,13 @@
   "description": "A static website with Node.js and Express",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+      "node": "14.15.1"
+    }
+  ,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MWest2020/Static-Site.git"
@@ -20,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/MWest2020/Static-Site/issues"
   },
-  "homepage": "https://github.com/MWest2020/Static-Site#readme",
+  "homepage": "https://westerweel-works.herokuapp.com",
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^3.0.0"

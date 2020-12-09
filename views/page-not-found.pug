@@ -7,11 +7,8 @@ block content
         .grid-x
         .cell.small-6.medium-9.large-9
             br
-            h1 Seems something is wrong.
+            h1 No one gets through life without losing a few things
             br
-            h4 
-              a(href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes') (Here's a link to the wiki of statuscodes)
-            br
-            
+            h2= error.message
             h2= error.status
             pre= error.stack

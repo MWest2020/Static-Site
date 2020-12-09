@@ -2,14 +2,15 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "RandomQuote Generator", 
-            "description": "A random quote generator that displays a different quote by clicking a button or at a set interval",
+            "project_name": "Random Quote Generator", 
+            "description": "A random quote generator that displays a different quote by clicking a button or at a set interval.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://mwest2020.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/MWest2020/Random-Quote-Generator.git",
             "image_urls": [
-                "/images/Random-Quotes.png",
-                "/images/Random-Quotes-another.png"
+                "/images/quotes-generator/Random-Quotes(550x550).png",
+                "/images/quotes-generator/Random-Quotes(1200x500).png",                
+                "/images/quotes-generator/Random-Quotes2(1200x500).png"
             ]
         },
         {
@@ -20,8 +21,9 @@
             "live_link": "https://mwest2020.github.io/Page-pagination/",
             "github_link": "https://github.com/MWest2020/Page-pagination.git",
             "image_urls": [
-                "/images/Student-List.png",
-                "/images/Student-list-search.png"
+                "/images/Page-pagination/Page-Pagination(500x500).png",
+                "/images/Page-pagination/Student-List(no results).png",
+                "/images/Page-pagination/Student-List(results).png"
             ]
         },
         {
@@ -32,8 +34,9 @@
             "live_link": "https://mwest2020.github.io/Form-dynamic/",
             "github_link": "https://github.com/MWest2020/Form-dynamic.git",
             "image_urls": [
-                "/images/Register-for-Full-Stack-Conf.png",
-                "/images/Register-for-Full-Stack-Conf-select-options.png"
+                "/images/dynamic-form/Register-for-Full-Stack-Conf(550x550).png",
+                "/images/dynamic-form/Register-for-Full-Stack-Conf(550x550).png",
+                "/images/dynamic-form/Register-for-Full-Stack-Conf2(1200x550).png"
             ]
         },
     {
@@ -44,8 +47,9 @@
         "live_link": "https://mwest2020.github.io/PhraseHunter/",
         "github_link": "https://github.com/MWest2020/PhraseHunter.git",
         "image_urls": [
-            "/images/Phrase-Hunter-example.png",
-            "/images/Phrase-Hunter(win).png"
+            "/images/Phrasehunter/Phrase-Hunter(550x550).png",
+            "/images/Phrasehunter/Phrase-Hunter(1220x550).png",
+            "/images/Phrasehunter/Phrase-Hunter3(1200x550).png"
             ]
     },
     {
@@ -56,8 +60,8 @@
         "live_link": "https://mwest2020.github.io/public-API-request/",
         "github_link": "https://github.com/MWest2020/public-API-request.git",
         "image_urls": [
-            "/images/Public-API-requests.png",
-            "/images/Public-API-requests-modal.png"
+            "/images/Public-API-request/Public-API-request(550x550).png",
+            "/images/Public-API-request/Public-API-requests(1200x550).png","/images/Public-API-request/Public-API-requests1(1200x550).png"
         ]
     }
     
