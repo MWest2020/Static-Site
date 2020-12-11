@@ -23,6 +23,10 @@ router.get('/projects/:id', (req, res, next) => {
        res.render("project", { projects: projects[req.params.id] });
    } else {
        const err = new Error();
+       err.status = 404;
        next(err);}
    });
+
+
+
 module.exports = router;

@@ -33,6 +33,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
     res.locals.error = err;
     res.status(err.status);
+    err.status = err.status = err.status || 500;
     if(err.status === 404){
         res.render('page-not-found')
     } else {
